@@ -1,0 +1,11 @@
+# Build artifacts
+rv32i
+*.o
+*.elf
+
+# VSCode files
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
